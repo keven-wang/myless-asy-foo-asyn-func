@@ -1,0 +1,14 @@
+{
+  "name": "myless-foo-asyn-func",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": {
+    "name": "keven-wang",
+    "email": "wang_jian_bo037@126.com" 
+  },
+  "license": "MIT",
+  "dependencies": {  
+  },
+  
+  "readmeFilename": "README.md"  
+}
